@@ -27,5 +27,9 @@ Miscellaneous other useful scripts and integrations that don't fit into any of t
 
 A useful Postman collection to help you with CloudCenter API calls:
 [![Run in Postman](https://run.pstmn.io/button.svg)](https://app.getpostman.com/run-collection/46991f84de724bcab198)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fgodeepakm%2Fcloudcenter-content.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fgodeepakm%2Fcloudcenter-content?ref=badge_shield)
 
 Or just import the collection from this file: https://www.getpostman.com/collections/46991f84de724bcab198
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fgodeepakm%2Fcloudcenter-content.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fgodeepakm%2Fcloudcenter-content?ref=badge_large)
